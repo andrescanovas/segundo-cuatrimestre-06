@@ -1,0 +1,33 @@
+[
+    {
+        
+        "id":1,
+        "nombre":"Andres",
+        "apellido": "Canovas",
+        "ocupacion" : "Estudiante de prog" 
+    },
+
+    {
+        "id":2,
+        "nombre":"Esteban",
+        "apellido": "Francou",
+        "ocupacion" : "DUDOSA"  
+
+    },
+    {
+        "id":3,
+        "nombre":"Javier ",
+        "apellido": "Zermathen",
+        "ocupacion" : "Estudiante de prog"  
+
+    },
+    {
+        "id":4,
+        "nombre":"Ezequiel ",
+        "apellido": "Delaloye",
+        "ocupacion" : "Estudiante de prog"  
+
+    }
+
+
+]
